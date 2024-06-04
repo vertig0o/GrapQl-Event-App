@@ -2,5 +2,5 @@
 
 ## :computer: Installation
 
-### 1. GraphQL Server
+ 
 
